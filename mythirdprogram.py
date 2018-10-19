@@ -1,2 +1,3 @@
-print(""Abhishek Singh")
-print("Python is best")
+#It is used for giving comments
+print(""Abhishek Singh, It will print")
+#print("It won't print")
